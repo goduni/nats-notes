@@ -11,10 +11,6 @@ docker run -p 4222:4222 -ti nats:latest
 
 ## Пакетные менеджеры
 
-Windows
-
-`choco install nats-server`
-
 MacOS
 
 `brew install nats-server`
