@@ -1,6 +1,6 @@
 # Первые шаги при работе с NATS.io
 
-Для начала - стоит установить сам NATS. Рекомендую использовать **[Docker](https://https://docs.docker.com/install)** <- кликабельно.
+Для начала - стоит установить сам NATS. Рекомендую использовать **[Docker](https://docs.docker.com/install)** <- кликабельно.
 
 
 ## Docker
